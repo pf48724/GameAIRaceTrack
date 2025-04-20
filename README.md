@@ -1,5 +1,5 @@
 # GameAIRaceTrack
-Race Track project for Game AI implementation
+To run, download Unity Hub and open FuzzyLogic scene
 
 A Unity project featuring AI-controlled vehicles racing on procedurally generated tracks. Includes implementations of Fuzzy Logic and Neural Network approaches.
 
